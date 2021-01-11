@@ -1,9 +1,9 @@
 # denoise
 This repo contains the code for the project for image denoising.
 
-Submitted By: MANISH SONI
-Submitted To: Professor Michael R. Roggemann 
-University: Michigan Technological University
+Submitted By: MANISH SONI  
+Submitted To: Professor Michael R. Roggemann    
+University: Michigan Technological University       
 
 Objective:
 Implementation of Image restoration algorithms for image denoising and deblurring.
